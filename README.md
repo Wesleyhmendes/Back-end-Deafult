@@ -1,4 +1,4 @@
-# Repositório do Projeto Back-end
+# Ambiente padrão para projeto Back-end com Node.js
 
 Este repositório serve como um modelo inicial para iniciar um projeto back-end em Node.js. Ele fornece uma estrutura básica e as dependências necessárias para começar a desenvolver rapidamente.
 
@@ -6,24 +6,17 @@ Este repositório serve como um modelo inicial para iniciar um projeto back-end 
 
 Para começar a utilizar este modelo de projeto, siga os passos abaixo:
 
-1. Clone este repositório para o seu ambiente local:
+1. Baixe este repositório para o seu ambiente local (não clone, crie seu próprio repositório)
+
+2. Navegue até o diretório do projeto:
 
 ```bash
-bashCopy code
-git clone <url-do-repositorio>
-```
-
-1. Navegue até o diretório do projeto:
-
-```bash
-bashCopy code
-cd nome-do-diretorio-do-projeto
+cd Back-end-Deafult
 ```
 
 1. Instale as dependências do projeto utilizando o npm:
 
 ```bash
-bashCopy code
 npm install
 ```
 
@@ -78,3 +71,10 @@ Este projeto utiliza as seguintes tecnologias e dependências:
 Com estas dependências instaladas, você estará pronto para começar a desenvolver o seu projeto back-end em Node.js!
 
 ## Créditos
+<br />
+<div id="header" align="center">
+ 
+  <a href="https://www.linkedin.com/in/wesley-mendes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:wesleymendes123321@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+</div>
